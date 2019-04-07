@@ -3,7 +3,7 @@ import { View, Platform, StyleSheet, FlatList, Button, TouchableHighlight, Image
 
 class MembersScreen extends Component {
   static navigationOptions = {
-    title: 'My Group'
+    title: 'My Chat Group'
   };
 
   constructor(props) {
