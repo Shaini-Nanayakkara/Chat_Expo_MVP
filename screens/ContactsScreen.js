@@ -4,7 +4,7 @@ import { noop } from 'lodash';
 
 class ContactsScreen extends Component {
   static navigationOptions = {
-    title: 'All Contacts'
+    title: 'My Contacts'
   };
 
   constructor(props) {
